@@ -17,3 +17,14 @@ Study materials are scattered across different websites, YouTube channels, share
 There is also a lack of a centralized platform where students can contribute resources and share their learning experiences.
 
 EduMesh addresses these challenges by bringing learning materials together in one community-driven platform.
+
+## Project Objectives
+
+- Create a centralized learning platform specifically for NST students.
+- Allow students, seniors and teachers to contribute educational resources.
+- Organize resources according to subjects and topics.
+- Enable students to rate and review the usefulness of shared resources.
+- Display highly rated YouTube learning resources for individual topics.
+- Provide a structured practice system for evaluating subject knowledge.
+- Help students organize assignments, study tasks and revision schedules.
+- Track quiz performance and identify topics that require additional practice.
