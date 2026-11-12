@@ -95,3 +95,27 @@ PostgreSQL is used to maintain structured and relational data, including:
 - Quizzes and questions.
 - Quiz attempts and answers.
 - Student study tasks.
+
+## Project Scope
+
+EduMesh focuses on improving the learning experience of NST students through a centralized academic platform.
+
+The initial version includes:
+
+- Subject-wise and topic-wise learning resources.
+- Community-based resource contributions and ratings.
+- Resource review and moderation.
+- Practice quizzes and assessment.
+- Student task and study management.
+- Quiz performance and mistake history.
+
+### Future Scope
+
+The following features may be considered in future versions:
+
+- AI-assisted learning recommendations.
+- Personalized study plans.
+- Advanced learning analytics.
+- Intelligent resource recommendations.
+
+These features are not part of the initial implementation.
