@@ -62,3 +62,36 @@ EduMesh addresses these challenges by bringing learning materials together in on
 - View quiz performance.
 - Identify frequently incorrect questions.
 - Maintain practice and revision history.
+
+## Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Web page structure |
+| CSS3 | Styling and layouts |
+| JavaScript | Application functionality |
+| React.js | Frontend development |
+| Node.js | Backend runtime |
+| Express.js | REST API development |
+| PostgreSQL | Relational database |
+| Prisma ORM | Database management |
+| Git | Version control |
+| GitHub | Source code hosting |
+
+### Architecture
+
+EduMesh follows a modular monolithic architecture.
+
+The React frontend communicates with the Express.js backend through REST APIs. The backend handles application logic and database operations using Prisma ORM, while PostgreSQL stores the application's relational data.
+
+### Database
+
+PostgreSQL is used to maintain structured and relational data, including:
+
+- User accounts and roles.
+- Subjects and topics.
+- Learning resources and reviews.
+- Resource ratings.
+- Quizzes and questions.
+- Quiz attempts and answers.
+- Student study tasks.
