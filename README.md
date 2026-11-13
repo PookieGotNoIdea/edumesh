@@ -120,3 +120,9 @@ The following features may be considered in future versions:
 - Intelligent resource recommendations.
 
 These features are not part of the initial implementation.
+
+## Project Status
+
+EduMesh is currently in the planning and initial development stage.
+
+Core requirements, system architecture and database design are being planned before implementation.
