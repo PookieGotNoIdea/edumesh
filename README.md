@@ -147,3 +147,13 @@ Our vision is to create a common academic learning space where students can easi
 - Promote sharing of useful study materials.
 - Help students identify reliable learning resources.
 - Support structured practice and academic planning.
+
+- ## Repository Structure
+
+edumesh/
+├── client/          # React frontend
+├── server/          # Node.js and Express backend
+├── docs/            # Project documentation
+├── README.md
+├── CONTRIBUTING.md
+└── .gitignore
