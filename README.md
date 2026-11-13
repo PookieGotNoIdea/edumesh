@@ -135,3 +135,7 @@ EduMesh is intended for:
 - Seniors who want to share useful academic resources.
 - Teachers who want to contribute educational content.
 - Reviewers and administrators who manage platform resources.
+
+## Project Vision
+
+Our vision is to create a common academic learning space where students can easily discover, share and evaluate educational resources relevant to their college syllabus.
