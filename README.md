@@ -1,4 +1,5 @@
 # EduMesh
+> A centralized learning and resource-sharing platform for NST students.
 ## About EduMesh
 
 EduMesh is a centralized, college-specific learning platform designed for NST students.
