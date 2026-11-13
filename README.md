@@ -126,3 +126,12 @@ These features are not part of the initial implementation.
 EduMesh is currently in the planning and initial development stage.
 
 Core requirements, system architecture and database design are being planned before implementation.
+
+## Target Users
+
+EduMesh is intended for:
+
+- NST students who want to access organized learning materials.
+- Seniors who want to share useful academic resources.
+- Teachers who want to contribute educational content.
+- Reviewers and administrators who manage platform resources.
