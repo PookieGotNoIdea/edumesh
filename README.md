@@ -139,3 +139,11 @@ EduMesh is intended for:
 ## Project Vision
 
 Our vision is to create a common academic learning space where students can easily discover, share and evaluate educational resources relevant to their college syllabus.
+
+## Project Mission
+
+- Make academic resources easier to access.
+- Encourage collaborative learning.
+- Promote sharing of useful study materials.
+- Help students identify reliable learning resources.
+- Support structured practice and academic planning.
