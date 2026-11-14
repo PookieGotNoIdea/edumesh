@@ -175,3 +175,9 @@ EduMesh aims to support different types of academic resources, including:
 - Educational YouTube videos.
 - Subject-wise study materials.
 - Practice questions.
+
+## User Experience
+
+EduMesh aims to provide a simple and organized experience for students.
+
+The platform will focus on easy navigation, accessible learning materials and clear organization of academic content.
