@@ -191,3 +191,11 @@ Learning materials in EduMesh will be organized using an academic hierarchy.
 - Resources are associated with relevant topics.
 
 This structure helps students locate materials related to specific syllabus topics.
+
+## Resource Quality
+
+EduMesh aims to encourage the sharing of useful and relevant academic resources.
+
+Community ratings and reviews will help students understand the usefulness of available materials.
+
+A review process will also help maintain the quality of published resources.
