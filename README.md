@@ -157,3 +157,11 @@ edumesh/
 ├── README.md
 ├── CONTRIBUTING.md
 └── .gitignore
+
+## Project Highlights
+
+- College-focused learning platform.
+- Organized academic resources.
+- Community-driven resource sharing.
+- Student-focused learning experience.
+- Structured academic practice.
