@@ -165,3 +165,13 @@ edumesh/
 - Community-driven resource sharing.
 - Student-focused learning experience.
 - Structured academic practice.
+
+## Learning Resource Types
+
+EduMesh aims to support different types of academic resources, including:
+
+- PDF notes and documents.
+- Reference websites.
+- Educational YouTube videos.
+- Subject-wise study materials.
+- Practice questions.
