@@ -209,3 +209,9 @@ EduMesh is guided by the following principles:
 - Collaboration: Encourage students to share knowledge.
 - Organization: Maintain structured academic content.
 - Reliability: Promote useful and relevant learning materials.
+
+## Acknowledgements
+
+We acknowledge the students, seniors and educators who contribute to academic knowledge sharing.
+
+Their participation and feedback can help shape EduMesh into a useful learning platform for the NST student community.
