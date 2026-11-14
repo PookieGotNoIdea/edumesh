@@ -199,3 +199,13 @@ EduMesh aims to encourage the sharing of useful and relevant academic resources.
 Community ratings and reviews will help students understand the usefulness of available materials.
 
 A review process will also help maintain the quality of published resources.
+
+## Project Principles
+
+EduMesh is guided by the following principles:
+
+- Simplicity: Keep the platform easy to understand and use.
+- Accessibility: Make academic resources easy to find.
+- Collaboration: Encourage students to share knowledge.
+- Organization: Maintain structured academic content.
+- Reliability: Promote useful and relevant learning materials.
