@@ -180,4 +180,14 @@ EduMesh aims to support different types of academic resources, including:
 
 EduMesh aims to provide a simple and organized experience for students.
 
-The platform will focus on easy navigation, accessible learning materials and clear organization of academic content.
+The platform will focus on easy navigation, accessible learning materials and clear organization of academic content
+
+## Resource Organization
+
+Learning materials in EduMesh will be organized using an academic hierarchy.
+
+- Subjects represent individual academic courses.
+- Topics represent the chapters or concepts within subjects.
+- Resources are associated with relevant topics.
+
+This structure helps students locate materials related to specific syllabus topics.
