@@ -274,3 +274,13 @@ EduMesh will include a resource review process to help maintain the quality of s
 
 Submitted resources will be checked before being made available to other students.
 
+## Expected Benefits
+
+EduMesh aims to provide the following benefits:
+
+- Easier access to academic materials.
+- Better organization of study resources.
+- Increased knowledge sharing among students.
+- Easier discovery of useful educational videos.
+- Structured practice and revision.
+- Improved organization of study activities.
