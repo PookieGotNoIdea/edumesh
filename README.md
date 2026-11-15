@@ -215,3 +215,12 @@ EduMesh is guided by the following principles:
 We acknowledge the students, seniors and educators who contribute to academic knowledge sharing.
 
 Their participation and feedback can help shape EduMesh into a useful learning platform for the NST student community.
+
+## Project Category
+
+EduMesh falls under the category of:
+
+- Educational Technology
+- Web-Based Learning Platform
+- Collaborative Learning
+- Academic Resource Management
