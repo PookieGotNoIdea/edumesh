@@ -1,3 +1,5 @@
+
+
 # EduMesh
 > A centralized learning and resource-sharing platform for NST students.
 ## About EduMesh
@@ -265,3 +267,10 @@ Students will be able to attempt different question types and review their perfo
 EduMesh aims to support students in organizing their academic activities.
 
 The productivity planner will provide options to create study tasks, assign priorities and track task completion.
+
+## Content Moderation
+
+EduMesh will include a resource review process to help maintain the quality of shared academic materials.
+
+Submitted resources will be checked before being made available to other students.
+
