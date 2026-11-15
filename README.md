@@ -259,3 +259,9 @@ Students will be able to explore resources based on their subjects and topics, h
 The platform will include practice-based assessments to support student learning.
 
 Students will be able to attempt different question types and review their performance to understand their learning progress.
+
+## Student Productivity
+
+EduMesh aims to support students in organizing their academic activities.
+
+The productivity planner will provide options to create study tasks, assign priorities and track task completion.
