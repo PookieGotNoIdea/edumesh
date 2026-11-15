@@ -241,3 +241,9 @@ Educational content will follow a structured hierarchy:
 - Practice questions
 
 This organization will help students navigate academic content more easily.
+
+## Collaboration
+
+EduMesh encourages collaboration within the NST academic community.
+
+Students, seniors and teachers can contribute useful educational materials and help build a shared learning environment.
