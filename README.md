@@ -1,5 +1,6 @@
 
 
+
 # EduMesh
 > A centralized learning and resource-sharing platform for NST students.
 ## About EduMesh
@@ -284,3 +285,9 @@ EduMesh aims to provide the following benefits:
 - Easier discovery of useful educational videos.
 - Structured practice and revision.
 - Improved organization of study activities.
+
+## Documentation
+
+Project documentation will be maintained alongside the source code.
+
+It will cover the system architecture, database design, development process and other important aspects of EduMesh.
