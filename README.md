@@ -224,3 +224,9 @@ EduMesh falls under the category of:
 - Web-Based Learning Platform
 - Collaborative Learning
 - Academic Resource Management
+
+## Platform Availability
+
+EduMesh is planned as a web-based platform that students can access through a web browser.
+
+The interface will be designed to provide a consistent experience across commonly used devices.
