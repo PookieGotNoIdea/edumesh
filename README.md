@@ -230,3 +230,14 @@ EduMesh falls under the category of:
 EduMesh is planned as a web-based platform that students can access through a web browser.
 
 The interface will be designed to provide a consistent experience across commonly used devices.
+
+## Academic Content Organization
+
+Educational content will follow a structured hierarchy:
+
+- Academic subjects
+- Individual topics
+- Related learning materials
+- Practice questions
+
+This organization will help students navigate academic content more easily.
