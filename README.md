@@ -247,3 +247,9 @@ This organization will help students navigate academic content more easily.
 EduMesh encourages collaboration within the NST academic community.
 
 Students, seniors and teachers can contribute useful educational materials and help build a shared learning environment.
+
+## Resource Discovery
+
+EduMesh aims to simplify the process of finding relevant educational materials.
+
+Students will be able to explore resources based on their subjects and topics, helping them locate content related to their academic requirements.
