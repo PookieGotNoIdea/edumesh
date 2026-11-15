@@ -253,3 +253,9 @@ Students, seniors and teachers can contribute useful educational materials and h
 EduMesh aims to simplify the process of finding relevant educational materials.
 
 Students will be able to explore resources based on their subjects and topics, helping them locate content related to their academic requirements.
+
+## Learning Assessment
+
+The platform will include practice-based assessments to support student learning.
+
+Students will be able to attempt different question types and review their performance to understand their learning progress.
