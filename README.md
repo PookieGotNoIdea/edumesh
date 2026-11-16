@@ -307,3 +307,9 @@ The platform focuses on students looking for study materials, seniors sharing th
 EduMesh will organize academic materials according to subjects and their respective topics.
 
 This approach will help students navigate learning content based on the subjects they are currently studying.
+
+## Learning Material Accessibility
+
+EduMesh aims to provide a common place for accessing different academic resources.
+
+Students will be able to explore available materials without having to search through multiple unrelated platforms.
