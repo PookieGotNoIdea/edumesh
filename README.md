@@ -352,3 +352,9 @@ Tasks can include details such as:
 - Priority.
 - Due date.
 - Completion status.
+
+## Development Approach
+
+EduMesh will be developed incrementally.
+
+The development process will focus on establishing the project structure, implementing core modules, integrating the database and testing individual functionalities before bringing the complete platform together.
