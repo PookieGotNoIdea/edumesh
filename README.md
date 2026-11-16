@@ -318,3 +318,9 @@ Students will be able to explore available materials without having to search th
 Community feedback is an important part of EduMesh.
 
 Students will be able to share their opinions about learning resources through ratings and reviews, helping others make informed choices.
+
+## Academic Resource Relevance
+
+EduMesh focuses on learning materials relevant to the NST academic syllabus.
+
+Organizing resources around subjects and topics will help students find materials connected to their coursework.
