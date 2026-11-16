@@ -340,3 +340,15 @@ These question types will support practice across different academic concepts.
 EduMesh will maintain records of student practice activities and quiz attempts.
 
 This information will help students review their previous performance and identify topics that may require further revision.
+
+## Study Task Organization
+
+Students will be able to organize their study activities using tasks.
+
+Tasks can include details such as:
+
+- Task title.
+- Related subject.
+- Priority.
+- Due date.
+- Completion status.
