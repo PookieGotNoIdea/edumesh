@@ -334,3 +334,9 @@ The practice system is planned to include:
 - Code-output prediction questions.
 
 These question types will support practice across different academic concepts.
+
+## Learning History
+
+EduMesh will maintain records of student practice activities and quiz attempts.
+
+This information will help students review their previous performance and identify topics that may require further revision.
