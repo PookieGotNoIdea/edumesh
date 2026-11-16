@@ -291,3 +291,10 @@ EduMesh aims to provide the following benefits:
 Project documentation will be maintained alongside the source code.
 
 It will cover the system architecture, database design, development process and other important aspects of EduMesh.
+
+
+## Project Summary
+
+EduMesh brings academic resources and student learning activities together in one platform.
+
+It focuses on making syllabus-related materials easier to access, explore and share within the NST community.
