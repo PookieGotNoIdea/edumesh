@@ -313,3 +313,8 @@ This approach will help students navigate learning content based on the subjects
 EduMesh aims to provide a common place for accessing different academic resources.
 
 Students will be able to explore available materials without having to search through multiple unrelated platforms.
+## Community Feedback
+
+Community feedback is an important part of EduMesh.
+
+Students will be able to share their opinions about learning resources through ratings and reviews, helping others make informed choices.
