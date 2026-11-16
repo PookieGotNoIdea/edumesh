@@ -298,3 +298,9 @@ It will cover the system architecture, database design, development process and 
 EduMesh brings academic resources and student learning activities together in one platform.
 
 It focuses on making syllabus-related materials easier to access, explore and share within the NST community.
+
+## Intended Audience
+
+EduMesh is primarily intended for the NST academic community.
+
+The platform focuses on students looking for study materials, seniors sharing their academic knowledge and teachers contributing educational resources.
