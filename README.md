@@ -324,3 +324,13 @@ Students will be able to share their opinions about learning resources through r
 EduMesh focuses on learning materials relevant to the NST academic syllabus.
 
 Organizing resources around subjects and topics will help students find materials connected to their coursework.
+
+## Practice Question Types
+
+The practice system is planned to include:
+
+- Multiple-choice questions.
+- Fill-in-the-blank questions.
+- Code-output prediction questions.
+
+These question types will support practice across different academic concepts.
