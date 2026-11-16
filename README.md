@@ -1,6 +1,3 @@
-
-
-
 # EduMesh
 > A centralized learning and resource-sharing platform for NST students.
 ## About EduMesh
@@ -304,3 +301,9 @@ It focuses on making syllabus-related materials easier to access, explore and sh
 EduMesh is primarily intended for the NST academic community.
 
 The platform focuses on students looking for study materials, seniors sharing their academic knowledge and teachers contributing educational resources.
+
+## Subject-Wise Navigation
+
+EduMesh will organize academic materials according to subjects and their respective topics.
+
+This approach will help students navigate learning content based on the subjects they are currently studying.
