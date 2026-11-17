@@ -391,3 +391,9 @@ These ratings will help the community understand which materials are considered 
 EduMesh will support educational video links as part of its learning resource collection.
 
 For individual topics, the platform aims to highlight the top three eligible YouTube videos based on student usefulness ratings.
+
+## Study Task Priorities
+
+The productivity planner will support task prioritization.
+
+Students will be able to assign priorities to their study tasks to help organize their academic workload.
