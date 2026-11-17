@@ -1,3 +1,4 @@
+
 # EduMesh
 > A centralized learning and resource-sharing platform for NST students.
 ## About EduMesh
@@ -373,3 +374,9 @@ EduMesh aims to:
 EduMesh will allow members of the academic community to contribute useful learning materials.
 
 Contributors will be able to submit relevant resources for review before they become available to other students.
+
+## Topic-Based Learning
+
+Learning materials will be associated with individual topics within academic subjects.
+
+This structure will make it easier for students to find resources related to a particular concept or chapter.
