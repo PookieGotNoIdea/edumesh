@@ -415,3 +415,9 @@ Previous quiz attempts and incorrectly answered questions will provide useful in
 EduMesh aims to maintain consistency across its academic content.
 
 Subjects, topics and learning resources will follow a structured organization to make information easier to navigate and maintain.
+
+## Maintainability
+
+EduMesh will follow a structured development approach to keep the project understandable and maintainable.
+
+Clear documentation, consistent coding conventions and modular application components will support future improvements.
