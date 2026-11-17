@@ -358,3 +358,12 @@ Tasks can include details such as:
 EduMesh will be developed incrementally.
 
 The development process will focus on establishing the project structure, implementing core modules, integrating the database and testing individual functionalities before bringing the complete platform together.
+
+## Platform Objectives
+
+EduMesh aims to:
+
+- Provide a common space for academic resources.
+- Encourage knowledge sharing among NST students.
+- Improve the organization of learning materials.
+- Support regular practice and revision.
