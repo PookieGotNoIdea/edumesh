@@ -403,3 +403,9 @@ Students will be able to assign priorities to their study tasks to help organize
 After attempting a quiz, students will be able to review their results.
 
 The assessment system is intended to provide scores, correct answers and explanations to support better understanding of concepts.
+
+## Revision Support
+
+EduMesh aims to help students revisit topics that need additional practice.
+
+Previous quiz attempts and incorrectly answered questions will provide useful information for planning revision activities.
