@@ -380,3 +380,8 @@ Contributors will be able to submit relevant resources for review before they be
 Learning materials will be associated with individual topics within academic subjects.
 
 This structure will make it easier for students to find resources related to a particular concept or chapter.
+## Resource Evaluation
+
+Students will be able to provide ratings for shared learning resources.
+
+These ratings will help the community understand which materials are considered useful by other learners.
