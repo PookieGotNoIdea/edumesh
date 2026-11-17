@@ -367,3 +367,9 @@ EduMesh aims to:
 - Encourage knowledge sharing among NST students.
 - Improve the organization of learning materials.
 - Support regular practice and revision.
+
+## Resource Contributions
+
+EduMesh will allow members of the academic community to contribute useful learning materials.
+
+Contributors will be able to submit relevant resources for review before they become available to other students.
