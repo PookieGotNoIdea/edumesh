@@ -397,3 +397,9 @@ For individual topics, the platform aims to highlight the top three eligible You
 The productivity planner will support task prioritization.
 
 Students will be able to assign priorities to their study tasks to help organize their academic workload.
+
+## Quiz Feedback
+
+After attempting a quiz, students will be able to review their results.
+
+The assessment system is intended to provide scores, correct answers and explanations to support better understanding of concepts.
