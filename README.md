@@ -385,3 +385,9 @@ This structure will make it easier for students to find resources related to a p
 Students will be able to provide ratings for shared learning resources.
 
 These ratings will help the community understand which materials are considered useful by other learners.
+
+## Educational Video Resources
+
+EduMesh will support educational video links as part of its learning resource collection.
+
+For individual topics, the platform aims to highlight the top three eligible YouTube videos based on student usefulness ratings.
