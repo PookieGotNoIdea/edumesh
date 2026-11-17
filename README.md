@@ -409,3 +409,9 @@ The assessment system is intended to provide scores, correct answers and explana
 EduMesh aims to help students revisit topics that need additional practice.
 
 Previous quiz attempts and incorrectly answered questions will provide useful information for planning revision activities.
+
+## Consistency Goals
+
+EduMesh aims to maintain consistency across its academic content.
+
+Subjects, topics and learning resources will follow a structured organization to make information easier to navigate and maintain.
