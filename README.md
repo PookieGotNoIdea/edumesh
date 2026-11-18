@@ -467,3 +467,9 @@ EduMesh will focus on providing:
 - Consistent page layouts.
 - Understandable forms and interactions.
 - Clear feedback for user actions.
+
+## Information Organization
+
+EduMesh will maintain a structured approach to organizing academic information.
+
+Related subjects, topics, resources and practice activities will be connected to make navigation and information discovery easier.
