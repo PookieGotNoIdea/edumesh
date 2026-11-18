@@ -448,3 +448,12 @@ Subject and topic associations will help maintain a connection between shared re
 Contributors are encouraged to share relevant and trustworthy educational materials.
 
 Shared content should respect the original creator's rights, acknowledge sources where appropriate and avoid misleading information.
+
+## Resource Submission Status
+
+Submitted learning resources may have different review statuses:
+
+- Pending: Awaiting review.
+- Approved: Accepted for publication.
+- Rejected: Not approved for publication.
+- Changes Requested: Requires modification before approval.
