@@ -438,3 +438,8 @@ Contributors should provide appropriate titles, descriptions and topic associati
 Learning resources should include meaningful descriptions wherever applicable.
 
 Descriptions can help students understand the subject, topic and purpose of a resource before accessing it.
+## Syllabus Alignment
+
+EduMesh is intended to organize learning materials around the academic syllabus followed at NST.
+
+Subject and topic associations will help maintain a connection between shared resources and the academic curriculum.
