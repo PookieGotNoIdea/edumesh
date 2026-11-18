@@ -479,3 +479,9 @@ Related subjects, topics, resources and practice activities will be connected to
 Feedback from students and other platform users can help identify areas that need improvement.
 
 Suggestions related to resource quality, navigation and overall usability can guide future development.
+
+## Initial Project Limitations
+
+The initial version of EduMesh will focus on its core learning and productivity modules.
+
+Advanced features and additional integrations may be considered in later versions based on project requirements and available development time.
