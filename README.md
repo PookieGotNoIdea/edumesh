@@ -433,3 +433,8 @@ The idea comes from the need for a more organized way to access and share study 
 EduMesh encourages contributors to share resources that are relevant to their respective academic subjects.
 
 Contributors should provide appropriate titles, descriptions and topic associations to make submitted materials easier to understand and discover.
+## Resource Descriptions
+
+Learning resources should include meaningful descriptions wherever applicable.
+
+Descriptions can help students understand the subject, topic and purpose of a resource before accessing it.
