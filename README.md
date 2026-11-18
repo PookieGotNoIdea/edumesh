@@ -473,3 +473,9 @@ EduMesh will focus on providing:
 EduMesh will maintain a structured approach to organizing academic information.
 
 Related subjects, topics, resources and practice activities will be connected to make navigation and information discovery easier.
+
+## Feedback and Improvement
+
+Feedback from students and other platform users can help identify areas that need improvement.
+
+Suggestions related to resource quality, navigation and overall usability can guide future development.
