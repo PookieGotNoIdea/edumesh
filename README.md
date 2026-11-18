@@ -443,3 +443,8 @@ Descriptions can help students understand the subject, topic and purpose of a re
 EduMesh is intended to organize learning materials around the academic syllabus followed at NST.
 
 Subject and topic associations will help maintain a connection between shared resources and the academic curriculum.
+## Responsible Resource Sharing
+
+Contributors are encouraged to share relevant and trustworthy educational materials.
+
+Shared content should respect the original creator's rights, acknowledge sources where appropriate and avoid misleading information.
