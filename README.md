@@ -427,3 +427,9 @@ Clear documentation, consistent coding conventions and modular application compo
 EduMesh is proposed as a college-focused initiative to bring academic resources and learning activities into a common digital environment.
 
 The idea comes from the need for a more organized way to access and share study materials within the NST student community.
+
+## Academic Resource Contributions
+
+EduMesh encourages contributors to share resources that are relevant to their respective academic subjects.
+
+Contributors should provide appropriate titles, descriptions and topic associations to make submitted materials easier to understand and discover.
