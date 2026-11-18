@@ -421,3 +421,9 @@ Subjects, topics and learning resources will follow a structured organization to
 EduMesh will follow a structured development approach to keep the project understandable and maintainable.
 
 Clear documentation, consistent coding conventions and modular application components will support future improvements.
+
+## Project Background
+
+EduMesh is proposed as a college-focused initiative to bring academic resources and learning activities into a common digital environment.
+
+The idea comes from the need for a more organized way to access and share study materials within the NST student community.
