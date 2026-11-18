@@ -457,3 +457,13 @@ Submitted learning resources may have different review statuses:
 - Approved: Accepted for publication.
 - Rejected: Not approved for publication.
 - Changes Requested: Requires modification before approval.
+
+## Usability Considerations
+
+EduMesh will focus on providing:
+
+- Clear navigation between subjects and topics.
+- Readable presentation of learning materials.
+- Consistent page layouts.
+- Understandable forms and interactions.
+- Clear feedback for user actions.
