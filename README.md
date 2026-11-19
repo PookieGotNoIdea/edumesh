@@ -528,3 +528,15 @@ Students will be able to maintain study-related tasks, assign priorities and mon
 The platform aims to maintain a clear structure for academic information.
 
 Consistent subject and topic organization will make learning resources easier to browse, manage and discover.
+
+## Usability Goals
+
+EduMesh aims to provide a straightforward user experience.
+
+The platform will focus on:
+
+- Clear navigation.
+- Understandable content organization.
+- Consistent page layouts.
+- Simple resource discovery.
+- Accessible academic information.
