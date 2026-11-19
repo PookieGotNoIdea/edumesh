@@ -505,3 +505,8 @@ Students will be able to explore available learning materials, contribute useful
 Submitted learning resources will follow a review process before publication.
 
 This process is intended to help ensure that shared materials are relevant and appropriate for the academic community.
+## Learning Resource Navigation
+
+EduMesh will provide structured navigation for academic resources.
+
+Students will be able to browse materials through subjects and their associated topics rather than searching through an unorganized collection.
