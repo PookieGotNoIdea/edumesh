@@ -495,3 +495,8 @@ It brings learning materials, practice activities and student productivity tools
 Learning resources will be categorized according to their academic relevance.
 
 Each resource will be associated with a subject and, where applicable, a specific topic to support organized browsing.
+## Student Participation
+
+Student participation is an important part of EduMesh.
+
+Students will be able to explore available learning materials, contribute useful resources and share feedback about their learning experience.
