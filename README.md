@@ -516,3 +516,9 @@ Students will be able to browse materials through subjects and their associated 
 Students will be able to refer to their previous quiz attempts.
 
 Maintaining assessment history will help learners review their answers and understand their progress over time.
+
+## Academic Planning
+
+EduMesh includes a student productivity planner to support everyday academic organization.
+
+Students will be able to maintain study-related tasks, assign priorities and monitor their completion status.
