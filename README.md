@@ -510,3 +510,9 @@ This process is intended to help ensure that shared materials are relevant and a
 EduMesh will provide structured navigation for academic resources.
 
 Students will be able to browse materials through subjects and their associated topics rather than searching through an unorganized collection.
+
+## Assessment History
+
+Students will be able to refer to their previous quiz attempts.
+
+Maintaining assessment history will help learners review their answers and understand their progress over time.
