@@ -522,3 +522,9 @@ Maintaining assessment history will help learners review their answers and under
 EduMesh includes a student productivity planner to support everyday academic organization.
 
 Students will be able to maintain study-related tasks, assign priorities and monitor their completion status.
+
+## Content Organization Goals
+
+The platform aims to maintain a clear structure for academic information.
+
+Consistent subject and topic organization will make learning resources easier to browse, manage and discover.
