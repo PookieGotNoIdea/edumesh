@@ -500,3 +500,8 @@ Each resource will be associated with a subject and, where applicable, a specifi
 Student participation is an important part of EduMesh.
 
 Students will be able to explore available learning materials, contribute useful resources and share feedback about their learning experience.
+## Resource Approval
+
+Submitted learning resources will follow a review process before publication.
+
+This process is intended to help ensure that shared materials are relevant and appropriate for the academic community.
