@@ -485,3 +485,8 @@ Suggestions related to resource quality, navigation and overall usability can gu
 The initial version of EduMesh will focus on its core learning and productivity modules.
 
 Advanced features and additional integrations may be considered in later versions based on project requirements and available development time.
+## About the Platform
+
+EduMesh is intended to serve as a shared academic space for the NST community.
+
+It brings learning materials, practice activities and student productivity tools together under one platform.
