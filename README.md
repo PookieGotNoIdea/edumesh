@@ -540,3 +540,9 @@ The platform will focus on:
 - Consistent page layouts.
 - Simple resource discovery.
 - Accessible academic information.
+
+## Project Evolution
+
+EduMesh will evolve through incremental development.
+
+Initial development will focus on the core learning and productivity modules. Additional improvements will be considered based on project requirements, testing and user feedback.
