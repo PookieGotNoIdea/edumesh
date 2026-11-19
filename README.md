@@ -490,3 +490,8 @@ Advanced features and additional integrations may be considered in later version
 EduMesh is intended to serve as a shared academic space for the NST community.
 
 It brings learning materials, practice activities and student productivity tools together under one platform.
+## Resource Categorization
+
+Learning resources will be categorized according to their academic relevance.
+
+Each resource will be associated with a subject and, where applicable, a specific topic to support organized browsing.
