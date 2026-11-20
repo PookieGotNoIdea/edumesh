@@ -565,3 +565,8 @@ Resources in EduMesh can be grouped into categories such as:
 Contributors should provide relevant information when submitting a learning resource.
 
 This may include the resource title, description, associated subject, topic and resource link or document.
+## Resource Attribution
+
+EduMesh aims to maintain appropriate attribution for shared learning materials.
+
+Resource contributions should include relevant source information wherever applicable, helping students identify the origin of educational content.
