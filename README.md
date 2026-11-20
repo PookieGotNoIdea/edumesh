@@ -598,3 +598,12 @@ The planned roles include:
 - Administrator
 
 Access to management activities will depend on the permissions assigned to each role.
+
+## Academic Terminology
+
+EduMesh uses a structured academic hierarchy.
+
+- Subject: An individual academic course.
+- Topic: A specific concept or chapter within a subject.
+- Resource: Educational material associated with a topic.
+- Assessment: A set of questions used to evaluate understanding.
