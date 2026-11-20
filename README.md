@@ -570,3 +570,12 @@ This may include the resource title, description, associated subject, topic and 
 EduMesh aims to maintain appropriate attribution for shared learning materials.
 
 Resource contributions should include relevant source information wherever applicable, helping students identify the origin of educational content.
+## Resource Lifecycle
+
+Learning resources are expected to follow a structured lifecycle:
+
+1. Resource submission.
+2. Resource review.
+3. Approval or rejection.
+4. Publication of approved resources.
+5. Updates or removal when necessary.
