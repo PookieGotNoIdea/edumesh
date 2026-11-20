@@ -560,3 +560,8 @@ Resources in EduMesh can be grouped into categories such as:
 - Programming resources
 - Subject tutorials
 - Practice materials
+## Resource Submission Information
+
+Contributors should provide relevant information when submitting a learning resource.
+
+This may include the resource title, description, associated subject, topic and resource link or document.
