@@ -613,3 +613,9 @@ EduMesh uses a structured academic hierarchy.
 Quiz attempts will be associated with individual students.
 
 The platform aims to maintain information about attempted quizzes, submitted answers and obtained scores for later review.
+
+## Mistake Tracking
+
+EduMesh aims to maintain a record of incorrectly answered practice questions.
+
+This will help students revisit questions they previously found difficult and focus on concepts requiring additional attention.
