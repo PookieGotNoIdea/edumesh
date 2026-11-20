@@ -607,3 +607,9 @@ EduMesh uses a structured academic hierarchy.
 - Topic: A specific concept or chapter within a subject.
 - Resource: Educational material associated with a topic.
 - Assessment: A set of questions used to evaluate understanding.
+
+## Quiz Attempt Records
+
+Quiz attempts will be associated with individual students.
+
+The platform aims to maintain information about attempted quizzes, submitted answers and obtained scores for later review.
