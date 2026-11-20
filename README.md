@@ -551,3 +551,12 @@ Initial development will focus on the core learning and productivity modules. Ad
 Scattered academic resources can make it difficult for students to identify relevant study materials.
 
 EduMesh aims to reduce this difficulty by bringing academic resources into a common, organized platform.
+## Academic Resource Categories
+
+Resources in EduMesh can be grouped into categories such as:
+
+- Lecture notes
+- Reference materials
+- Programming resources
+- Subject tutorials
+- Practice materials
