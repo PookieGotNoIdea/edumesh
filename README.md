@@ -546,3 +546,8 @@ The platform will focus on:
 EduMesh will evolve through incremental development.
 
 Initial development will focus on the core learning and productivity modules. Additional improvements will be considered based on project requirements, testing and user feedback.
+## Impact of the Problem
+
+Scattered academic resources can make it difficult for students to identify relevant study materials.
+
+EduMesh aims to reduce this difficulty by bringing academic resources into a common, organized platform.
