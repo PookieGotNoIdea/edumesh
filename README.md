@@ -579,3 +579,9 @@ Learning resources are expected to follow a structured lifecycle:
 3. Approval or rejection.
 4. Publication of approved resources.
 5. Updates or removal when necessary.
+
+## User Accounts
+
+EduMesh will provide individual user accounts to support platform activities.
+
+User accounts will help associate resource contributions, ratings, quiz attempts and study tasks with their respective users.
