@@ -296,3 +296,43 @@ The project will maintain separate setup instructions for the frontend and backe
 ---
 
 *EduMesh — Learn Together. Grow Together.*
+
+## Frontend Architecture
+
+EduMesh uses **React with Vite** to build a modular, component-based frontend application. The frontend is organized by features to keep the codebase maintainable, scalable, and easy to navigate.
+
+### Frontend Technologies
+
+- **React:** Builds the user interface using reusable components.
+- **Vite:** Provides the frontend development environment and build tooling.
+- **React Router:** Handles navigation and routing between application pages.
+- **React Context and Hooks:** Manage shared application state and reusable logic.
+- **Tailwind CSS and Vanilla CSS:** Handle styling and responsive layouts.
+- **Axios:** Communicates with the backend REST APIs.
+- **React Hook Form and Zod:** Manage frontend forms and input validation.
+- **Recharts:** Displays progress statistics and learning analytics.
+
+### Component-Based Structure
+
+The frontend follows a component-based approach. Common interface elements are built as reusable components to maintain consistency across different pages.
+
+The application separates:
+
+- **Pages and layouts:** Organize the main application screens and shared page structures.
+- **Common components:** Provide reusable UI elements.
+- **Feature modules:** Group components and logic according to application functionality.
+- **Services:** Handle communication with backend APIs.
+- **Hooks and utilities:** Store reusable application logic and helper functions.
+- **Providers:** Manage shared application contexts.
+
+### Routing and Navigation
+
+React Router is used to manage navigation between different sections of EduMesh.
+
+The application will support protected routes for authenticated users and role-based route access for different user permissions.
+
+### State Management
+
+EduMesh initially uses React Context and built-in React Hooks for shared and local state management.
+
+This approach keeps state management simple while allowing the application to expand as new features are introduced.
