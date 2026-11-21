@@ -72,3 +72,100 @@ The primary objectives of EduMesh are to:
 - Categorizes learning progress using statuses such as New, Needs Practice, Improving, and Mastered.
 - Identifies weak topics and provides rule-based learning recommendations.
 - Supports learning goals, streaks, and progress visualizations.
+
+## Technology Stack
+
+EduMesh follows a modern full-stack architecture with separate frontend and backend applications.
+
+| Layer | Technology | Purpose |
+|---|---|---|
+| Frontend | React + Vite | User interface and development environment |
+| Frontend language | JavaScript | Application logic |
+| Routing | React Router | Client-side navigation |
+| State management | React Context + Hooks | Shared application state |
+| Styling | Tailwind CSS + Vanilla CSS | UI styling and layout |
+| Form handling | React Hook Form + Zod | Form management and client-side validation |
+| API communication | Axios | HTTP requests to backend APIs |
+| Analytics | Recharts | Progress and performance visualizations |
+| Backend | Node.js + Express.js | Server-side application and REST APIs |
+| Backend language | JavaScript (ES Modules) | Backend application logic |
+| ORM | Prisma ORM | Database access and management |
+| Database | PostgreSQL | Relational data storage |
+| Authentication | bcrypt + JWT | Password hashing and token-based authentication |
+
+## System Architecture
+
+EduMesh follows a **three-tier architecture**, separating the presentation layer, application layer, and data layer.
+
+```text
+                 ┌──────────────────────────┐
+                 │     Presentation Layer   │
+                 │                          │
+                 │       React + Vite       │
+                 │      Frontend Client     │
+                 └────────────┬─────────────┘
+                              │
+                         REST APIs
+                         JSON Data
+                              │
+                 ┌────────────▼─────────────┐
+                 │     Application Layer    │
+                 │                          │
+                 │       Node.js            │
+                 │       Express.js         │
+                 │                          │
+                 │  Routes / Controllers    │
+                 │  Services / Validation  │
+                 │  Middleware / Utilities │
+                 └────────────┬─────────────┘
+                              │
+                         Prisma ORM
+                              │
+                 ┌────────────▼─────────────┐
+                 │        Data Layer        │
+                 │                          │
+                 │       PostgreSQL         │
+                 │     Relational Data      │
+                 └──────────────────────────┘
+```
+
+### Frontend Architecture
+
+The frontend is organized using a feature-based structure to keep related pages, components, and functionality together.
+
+Key architectural decisions include:
+
+- React with Vite for frontend development.
+- React Router for application routing.
+- React Context and Hooks for shared state management.
+- Axios with a centralized configuration for backend communication.
+- Feature-specific API services for organizing requests.
+- Tailwind CSS and Vanilla CSS for styling.
+- React Hook Form and Zod for form handling and client-side validation.
+- Recharts for academic progress and performance analytics.
+
+### Backend Architecture
+
+The backend uses Node.js and Express.js with a modular, layered architecture.
+
+The backend is organized around feature modules, with responsibilities separated into distinct layers:
+
+- **Routes:** Define API endpoints and connect them to controllers.
+- **Controllers:** Handle incoming requests and outgoing responses.
+- **Services:** Contain application business logic.
+- **Validation:** Validate incoming request data.
+- **Middleware:** Handle authentication, authorization, errors, and other cross-cutting concerns.
+- **Configuration:** Manage environment settings and database connectivity.
+- **Utilities:** Provide reusable helper functions.
+
+The backend exposes RESTful APIs that communicate with the frontend using JSON.
+
+### Authentication and Authorization
+
+EduMesh uses email-and-password authentication with:
+
+- bcrypt for secure password hashing.
+- JSON Web Tokens (JWT) for token-based authentication.
+- Role-Based Access Control (RBAC) to manage permissions for different user roles.
+
+The backend validates requests independently of frontend validation and uses centralized error handling to return consistent API error responses.
