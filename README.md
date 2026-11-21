@@ -454,3 +454,78 @@ Frontend and backend work are developed independently and integrated through agr
 Completed modules are integrated and tested before being merged into the stable `main` branch.
 
 Both team members coordinate changes to shared documentation and project architecture.
+
+## Getting Started
+
+This section describes the initial setup of the EduMesh development environment.
+
+### Prerequisites
+
+The following tools are required:
+
+- Node.js
+- npm
+- Git
+- PostgreSQL
+- A code editor such as Visual Studio Code
+
+### Clone the Repository
+
+Clone the project repository:
+
+```bash
+git clone https://github.com/PookieGotNoIdea/edumesh.git
+cd edumesh
+```
+
+### Frontend Setup
+
+Navigate to the frontend directory:
+
+```bash
+cd frontend
+```
+
+Install the frontend dependencies:
+
+```bash
+npm install
+```
+
+Create a local environment file using the provided `.env.example` as a reference, when available.
+
+Start the Vite development server:
+
+```bash
+npm run dev
+```
+
+The terminal will display the local development URL.
+
+### Backend Setup
+
+Backend setup instructions will be added once the backend dependencies, environment configuration, database connection, and startup scripts have been implemented and verified.
+
+### Environment Variables
+
+Environment variables are used to configure application-specific settings.
+
+Sensitive values, including database credentials, authentication secrets, and private API keys, must remain in local environment files and must never be committed to Git.
+
+The repository provides `.env.example` files as configuration references where applicable.
+
+## Project Information
+
+**Project:** EduMesh — NST Learning Hub
+
+**Project Type:** Advanced Programming Full-Stack Web Application
+
+**Frontend:** React and Vite
+
+**Backend:** Node.js and Express.js
+
+**Database:** PostgreSQL with Prisma ORM
+
+**Repository:** [EduMesh on GitHub](https://github.com/PookieGotNoIdea/edumesh)
+
+EduMesh aims to create a centralized, community-powered learning platform that helps NST students access educational resources, practise concepts, and track their academic progress.
