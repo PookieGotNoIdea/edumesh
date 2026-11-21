@@ -169,3 +169,78 @@ EduMesh uses email-and-password authentication with:
 - Role-Based Access Control (RBAC) to manage permissions for different user roles.
 
 The backend validates requests independently of frontend validation and uses centralized error handling to return consistent API error responses.
+
+## Database Architecture
+
+EduMesh uses **PostgreSQL** as its relational database and **Prisma ORM** for database access and schema management.
+
+The database is designed around related entities to maintain data consistency and support the platform's learning and collaboration features.
+
+Key database design principles include:
+
+- Relational data modelling with appropriate primary and foreign keys.
+- Clearly defined relationships between users, subjects, topics, resources, ratings, questions, quizzes, and progress records.
+- Prisma schema management and database migrations.
+- Referential integrity and appropriate constraints.
+- Separation of database access from application business logic.
+
+### Database Interaction Flow
+
+```text
+Express.js Application
+        |
+        v
+   Prisma ORM
+        |
+        v
+    PostgreSQL
+        |
+        v
+   Query Results
+        |
+        v
+  Express.js Response
+```
+
+## Repository Structure
+
+EduMesh follows a monorepo structure containing independently organized frontend and backend applications, along with shared project documentation.
+
+```text
+edumesh/
+│
+├── frontend/                 # React + Vite application
+│
+├── backend/                  # Node.js + Express application
+│   ├── src/
+│   │   ├── config/
+│   │   ├── modules/
+│   │   ├── middleware/
+│   │   ├── utils/
+│   │   ├── app.js
+│   │   └── server.js
+│   │
+│   ├── prisma/               # Prisma schema and migrations
+│   ├── uploads/              # Local development file storage
+│   └── tests/
+│
+├── docs/
+│   ├── architecture/
+│   ├── database/
+│   ├── api/
+│   └── planning/
+│
+├── .gitignore
+└── README.md
+```
+
+### Project Organization
+
+- **frontend/** contains the React application and its user interface.
+- **backend/** contains the Express application, API modules, business logic, and database integration.
+- **backend/prisma/** contains the Prisma schema and database migrations.
+- **backend/uploads/** is intended for local development file storage. Uploaded files are excluded from Git.
+- **docs/** contains architecture documentation, database design, API contracts, and project planning documents.
+- **.gitignore** excludes dependencies, environment secrets, build outputs, logs, and uploaded files from version control.
+
+The frontend and backend are maintained as separate applications while sharing the same Git repository and project documentation.
