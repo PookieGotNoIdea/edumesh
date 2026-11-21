@@ -244,3 +244,55 @@ edumesh/
 - **.gitignore** excludes dependencies, environment secrets, build outputs, logs, and uploaded files from version control.
 
 The frontend and backend are maintained as separate applications while sharing the same Git repository and project documentation.
+
+## Team Responsibilities
+
+EduMesh is developed collaboratively by a team of two members.
+
+| Team Member | Responsibility | Technology Focus |
+|---|---|---|
+| Member 1 | Backend and Database Development | Node.js, Express.js, Prisma ORM, PostgreSQL |
+| Member 2 | Frontend Development | React, Vite, JavaScript, Tailwind CSS |
+
+Both members collaborate on architecture decisions, API contracts, integration, testing, and project documentation.
+
+## Development Roadmap
+
+EduMesh is being developed in structured phases to ensure a clear development process and gradual integration of its components.
+
+| Phase | Description | Status |
+|---|---|---|
+| Phase 1 | Project foundation, repository setup, and Git workflow | Completed |
+| Phase 2 | Frontend and backend application initialization | Upcoming |
+| Phase 3 | Database design, Prisma setup, and migrations | Planned |
+| Phase 4 | API contracts and frontend-backend coordination | Planned |
+| Phase 5 | Core feature development | Planned |
+| Phase 6 | Frontend-backend integration and testing | Planned |
+| Phase 7 | Deployment, documentation, and final presentation | Planned |
+
+## Future Enhancements
+
+The initial development focuses on the five core modules described above. Additional capabilities may be explored as future enhancements:
+
+- **Student Productivity Planner:** Tools for organizing academic tasks and study schedules.
+- **Study Sessions and Revision Tasks:** Features for planning and tracking revision activities.
+- **AI-Powered Assistance:** Intelligent learning assistance and personalized academic support.
+
+These enhancements are outside the initial core development scope.
+
+## Getting Started
+
+EduMesh is currently in its foundation and planning stage. Detailed installation instructions, environment configuration, and application startup commands will be added as the frontend and backend applications are initialized.
+
+The project will maintain separate setup instructions for the frontend and backend.
+
+## Project Information
+
+- **Project Name:** EduMesh
+- **Project Type:** Advanced Programming Full-Stack Web Application
+- **Target Audience:** NST Students
+- **Repository:** [EduMesh on GitHub](https://github.com/PookieGotNoIdea/edumesh)
+
+---
+
+*EduMesh — Learn Together. Grow Together.*
