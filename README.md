@@ -364,3 +364,35 @@ In addition to feature modules, the frontend contains shared directories for:
 - **App providers:** Shared application contexts and configuration.
 
 This organization allows individual features to be developed and maintained independently while reusing common application functionality.
+
+## Frontend and Backend API Integration
+
+The EduMesh frontend communicates with the backend through REST APIs using JSON for request and response data.
+
+### Axios Configuration
+
+Axios is used as the HTTP client for backend communication.
+
+A centralized Axios instance is maintained to configure common settings such as the backend base URL and request headers. This avoids repeating API configuration across different components.
+
+### Feature-Based API Services
+
+API communication is organized into feature-specific service files. Each service handles requests related to its respective module, such as authentication, resources, quizzes, progress, and notifications.
+
+This separation keeps API logic independent of UI components and makes the application easier to maintain.
+
+### Request and Response Handling
+
+The frontend sends HTTP requests to the Express.js backend and processes JSON responses.
+
+The application handles API errors and displays appropriate feedback to users.
+
+### Form Validation
+
+React Hook Form is used to manage frontend forms, while Zod provides schema-based validation.
+
+Frontend validation improves the user experience by identifying invalid inputs before submission. The backend independently validates incoming requests and remains responsible for enforcing data integrity and business rules.
+
+### Backend Communication
+
+The backend processes API requests, interacts with PostgreSQL through Prisma ORM, and returns structured JSON responses to the frontend.
