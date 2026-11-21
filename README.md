@@ -396,3 +396,61 @@ Frontend validation improves the user experience by identifying invalid inputs b
 ### Backend Communication
 
 The backend processes API requests, interacts with PostgreSQL through Prisma ORM, and returns structured JSON responses to the frontend.
+
+## Git Workflow and Team Collaboration
+
+EduMesh is developed collaboratively using Git and GitHub. The repository follows a branch-based workflow to separate frontend development, backend development, and stable project releases.
+
+### Main Branches
+
+- **`main`:** Contains stable and verified project code.
+- **`backend-dev`:** Used for backend and database development.
+- **`frontend-dev`:** Used for frontend development.
+
+### Feature Branches
+
+Temporary branches are created for individual tasks and features.
+
+The naming convention is:
+
+- `feature/<area>-<module>-<task>`
+- `fix/<area>-<module>-<task>`
+- `chore/<area>-<task>`
+- `docs/<topic>`
+
+Examples:
+
+- `feature/backend-auth-registration-api`
+- `feature/frontend-auth-login-page`
+- `docs/readme`
+
+### Commit Convention
+
+The project follows Conventional Commits:
+
+`<type>(<scope>): <description>`
+
+Common commit types include:
+
+- `feat`: New functionality.
+- `fix`: Bug fixes.
+- `refactor`: Code restructuring.
+- `docs`: Documentation changes.
+- `test`: Tests.
+- `chore`: Maintenance tasks.
+- `style`: Formatting and styling changes.
+
+### Team Responsibilities
+
+The project is developed by two team members:
+
+- **Backend development:** Responsible for Express.js, Prisma ORM, PostgreSQL, backend APIs, authentication, and business logic.
+- **Frontend development:** Responsible for React, Vite, user interfaces, routing, frontend state management, and API integration.
+
+### Integration and Testing
+
+Frontend and backend work are developed independently and integrated through agreed API contracts.
+
+Completed modules are integrated and tested before being merged into the stable `main` branch.
+
+Both team members coordinate changes to shared documentation and project architecture.
