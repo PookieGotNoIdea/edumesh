@@ -336,3 +336,31 @@ The application will support protected routes for authenticated users and role-b
 EduMesh initially uses React Context and built-in React Hooks for shared and local state management.
 
 This approach keeps state management simple while allowing the application to expand as new features are introduced.
+
+## Frontend Feature Organization
+
+EduMesh follows a feature-based frontend structure. Each major application functionality is organized into its own feature module, keeping related components and logic together.
+
+### Feature Modules
+
+- **Authentication (`auth`):** Handles student registration, login, authentication state, and protected access.
+- **Learning Hub (`learning-hub`):** Organizes subjects, topics, learning materials, and educational resources.
+- **Resources (`resources`):** Displays and manages contributed learning resources.
+- **Reviews (`reviews`):** Supports resource feedback, comments, helpful votes, and reports.
+- **Ratings (`ratings`):** Manages resource ratings and rating-related information.
+- **Quizzes (`quizzes`):** Provides quiz interfaces, question answering, results, and quiz history.
+- **Progress (`progress`):** Displays student performance, learning progress, and mistake history.
+- **Notifications (`notifications`):** Displays notifications and unread notification information.
+
+### Shared Frontend Organization
+
+In addition to feature modules, the frontend contains shared directories for:
+
+- **Common components:** Reusable interface elements.
+- **Layouts:** Shared page layouts.
+- **Services:** API communication and backend integration.
+- **Hooks:** Reusable React logic.
+- **Utils:** Helper functions.
+- **App providers:** Shared application contexts and configuration.
+
+This organization allows individual features to be developed and maintained independently while reusing common application functionality.
