@@ -165,6 +165,17 @@ Will cover:
 - Authentication API endpoints
 - Request and response formats
 - Validation and error handling
+**Authentication contract status:** Core decisions finalized.
+
+**Agreed decisions:**
+- JWT storage: HTTP-only cookie.
+- Public registration: Students only.
+- Minimum password length: 8 characters.
+- Password hashing: bcrypt.
+- Authentication: JWT.
+- Authorization: RBAC.
+
+**Remaining:** Finalize detailed endpoint response formats, cookie expiration, CSRF configuration and implementation-specific validation before coding.
 
 ### 6.2 Learning Hub
 
