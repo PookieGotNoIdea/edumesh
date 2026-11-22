@@ -165,6 +165,7 @@ Will cover:
 - Authentication API endpoints
 - Request and response formats
 - Validation and error handling
+  
 **Authentication contract status:** Core decisions finalized.
 
 **Agreed decisions:**
